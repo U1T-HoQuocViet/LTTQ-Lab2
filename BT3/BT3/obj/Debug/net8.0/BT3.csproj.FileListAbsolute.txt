@@ -1,0 +1,14 @@
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\bin\Debug\net8.0\BT3.exe
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\bin\Debug\net8.0\BT3.deps.json
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\bin\Debug\net8.0\BT3.runtimeconfig.json
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\bin\Debug\net8.0\BT3.dll
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\bin\Debug\net8.0\BT3.pdb
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\obj\Debug\net8.0\BT3.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\obj\Debug\net8.0\BT3.AssemblyInfoInputs.cache
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\obj\Debug\net8.0\BT3.AssemblyInfo.cs
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\obj\Debug\net8.0\BT3.csproj.CoreCompileInputs.cache
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\obj\Debug\net8.0\BT3.dll
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\obj\Debug\net8.0\refint\BT3.dll
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\obj\Debug\net8.0\BT3.pdb
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\obj\Debug\net8.0\BT3.genruntimeconfig.cache
+D:\vs projects\C#-Learn\LTTQ-BT2\BT3\BT3\obj\Debug\net8.0\ref\BT3.dll
